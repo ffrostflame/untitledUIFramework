@@ -1,0 +1,15 @@
+{
+	"name": "lib-dev",
+	"emitLegacyScripts": false,
+	"tree": {
+		"$className": "DataModel",
+		
+		"ReplicatedStorage": {
+			"lib": {
+				"$path": "src"
+			},
+			
+			"$path": "dev"
+		}
+	}
+}

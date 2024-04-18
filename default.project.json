@@ -1,0 +1,7 @@
+{
+  "name": "lib",
+  "emitLegacyScripts": false,
+  "tree": {
+    "$path": "src"
+  }
+}
